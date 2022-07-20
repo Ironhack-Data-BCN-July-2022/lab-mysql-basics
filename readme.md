@@ -6,6 +6,8 @@
 
 In this lab, you will be using the `files_for_lab/mysql_dump.sql` database. Load it into MySQL Workbench, and there you will find a `bank` database which we will use for the following exercise.
 
+One possible way to load it through MySQL Workbench would be: `Server > Data import > Import from self-contained file > select path to your file by clicking on the dot > Start import`  
+
 Here, we will practice selecting and projecting data. You can finish all questions with only those clauses:
 
 - `SELECT`
